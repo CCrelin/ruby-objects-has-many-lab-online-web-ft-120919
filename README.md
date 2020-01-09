@@ -1,4 +1,4 @@
-# Ruby Objects Has Many Lab
+ting # Ruby Objects Has Many Lab
 
 ## Objectives
 
